@@ -15,9 +15,9 @@
     },
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/substack/deep-freeze.git"
+        "url" : "git://github.com/intellipharm-pty-ltd/deep-freeze.git"
     },
-    "homepage" : "https://github.com/substack/deep-freeze",
+    "homepage" : "https://github.com/intellipharm-pty-ltd/deep-freeze",
     "keywords" : [
         "freeze",
         "deep",
